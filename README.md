@@ -18,4 +18,4 @@
 * Scikit-Learn
 
 ## Link to App :
-https://laptop-price-predictor-pyt.herokuapp.com/
+https://laptop-price-predictor.up.railway.app/
